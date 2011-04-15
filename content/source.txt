@@ -7,6 +7,10 @@ filter:
 ---
 h2(headerText lobsterFont).  <%= h(@page.title) %>
 
+<section class="blockMain">
+<p>
+  Block of main text here
+</p>
 
 h3(headerText lobsterFont).  MacRuby Development
 
@@ -42,4 +46,4 @@ Git aficionados will be glad to learn that there is an official mirror of the SV
 $ git clone git://git.macruby.org/macruby/MacRuby.git
 </pre>
 </section>
-
+</section>
